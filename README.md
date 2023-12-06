@@ -1,7 +1,7 @@
 <h1 align="center"> INDICAÍ </h1>
 
 <p align="center">
-indicaí é um app mobile que foi desenvolvido no Estação T.I de 2022 no Ulbra Palmas. Com o objetivo de indicar filmes, tendo até a possibilidade de ranking de críticos de filmes indicados  <br/>
+indicaí é um app mobile que foi desenvolvido no Estação T.I de 2022 no Ulbra Palmas. Com o objetivo de indicar filmes, tendo até a possibilidade de ranking dos usuários mais críticos de filmes indicados  <br/>
 </p>
 
 <p align="center">
