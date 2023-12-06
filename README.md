@@ -25,7 +25,7 @@ Este projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-INDICAÍ é um projeto cujo objetivo é ser uma espécie de rede social para os críticos de filmes e cinéfilos, que traz ranking e para os entusiastas que gostam de compartilhar os suas obras preferidas.
+INDICAÍ é um projeto cujo objetivo é ser uma espécie de rede social para os críticos de filmes e cinéfilos, que traz ranking para os entusiastas que gostam de compartilhar os suas obras preferidas.
 
 ## 🔖 Layout
 
